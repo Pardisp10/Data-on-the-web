@@ -1,0 +1,16 @@
+{
+"@context": "http://www.w3.org/ns/csvw",
+"url": "Movie_cinema.csv",
+"tableSchema": {
+"columns": [
+{"name": "CityID", "titles": "City id", "datatype": "integer"},
+{"name": "ID", "titles": "id", "datatype": "integer"},
+{"name": "MovieName", "titles": "movie name", "datatype": "string"},
+{"name": "StreetName", "titles": "street name", "datatype": "string"},
+{"name": "StreetNumber", "titles": "street n.", "datatype": "integer"},
+{"name": "PostalCode", "titles": "postal code", "datatype": "integer"},
+{"name": "Category", "titles": "Category", "datatype": "string"},
+{"name": "Rating", "titles": "Rating", "datatype": "number"}
+]
+}
+}

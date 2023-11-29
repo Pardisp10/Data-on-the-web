@@ -1,0 +1,42 @@
+[
+  {
+    "CityID": 1,
+    "ID": 1,
+    "MovieName": "Oppenheimer",
+    "StreetName": "Unterer Sand",
+    "StreetNumber": 13,
+    "PostalCode": 94032,
+    "Category": "American",
+    "Rating": 3.6
+  },
+  {
+    "CityID": 1,
+    "ID": 2,
+    "MovieName": "Jaane Jaan",
+    "StreetName": "Milchgasse",
+    "StreetNumber": 2,
+    "PostalCode": 94032,
+    "Category": "Indian",
+    "Rating": 3.9
+  },
+  {
+    "CityID": 2,
+    "ID": 3,
+    "MovieName": "Empty Nets",
+    "StreetName": "Isartor platz",
+    "StreetNumber": 8,
+    "PostalCode": 80331,
+    "Category": "Iranian",
+    "Rating": 3.5
+  },
+  {
+    "CityID": 2,
+    "ID": 4,
+    "MovieName": "Without a Trace",
+    "StreetName": "Theatinerstrasse",
+    "StreetNumber": 32,
+    "PostalCode": 80333,
+    "Category": "German",
+    "Rating": 4.8
+  }
+]
